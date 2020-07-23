@@ -34,7 +34,7 @@
     "gulp-pug": "^3.0.4",
     "gulp-sass": "^2.3.2",
     "gulp-sourcemaps": "^1.6.0",
-    "hapi": "^15.0.2",
+    "hapi": "^18.1.0",
     "inert": "^4.0.2"
   }
 }
